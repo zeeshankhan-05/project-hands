@@ -123,9 +123,9 @@ view for reviewing objective measurements over time.
 
 Short demo: [VIDEO]
 
-Live prototype: [LIVE APP]
+Live prototype: https://project-hands.vercel.app
 
-GitHub: [REPOSITORY]
+GitHub: https://github.com/zeeshankhan-05/project-hands
 
 This is just an independent prototype based on my current understanding—not an
 official or clinically validated application—but I thought it would be a useful

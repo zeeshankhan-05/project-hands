@@ -13,6 +13,9 @@ care. All participant records are fictional. The prototype does not provide
 diagnoses, recommendations, or clinical interpretations, and it does not claim
 HIPAA compliance.
 
+- **Live prototype:** https://project-hands.vercel.app
+- **Source repository:** https://github.com/zeeshankhan-05/project-hands
+
 ## Features
 
 - Tablet-friendly participant home and guided session flow
@@ -66,7 +69,7 @@ Requirements:
 - npm 10 or newer
 
 ```bash
-git clone <REPOSITORY_URL>
+git clone https://github.com/zeeshankhan-05/project-hands.git
 cd project-hands
 npm install
 npm run dev
